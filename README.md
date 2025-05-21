@@ -22,7 +22,6 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white)
 
 **Frameworks & Stacks:**
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white)
@@ -52,16 +51,13 @@
   <tr>
     <td align="center" width="33%">
       <a href="https://github.com/yourusername/health-project">
-        <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/folder-health.svg" width="100" />
-        <br>
         <b>GodEye Healthcare Platform</b>
       </a>
       <br>
-      Microservices healthcare system with triage, onboarding, HMO integration
+      Microservices healthcare system with triage, onboarding, and HMO integration
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/yourusername/loyalty-system">
-        <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/folder-api.svg" width="100" />
         <br>
         <b>LoyaOne</b>
       </a>
@@ -70,7 +66,6 @@
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/yourusername/ai-campaigns">
-        <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/folder-chat.svg" width="100" />
         <br>
         <b>AI Campaigns</b>
       </a>
@@ -90,7 +85,6 @@
 | 💳 **LoyaOne** | Loyalty card system with POS integration | FastAPI, MongoDB, Redis | 🟢 Active |
 | 🧠 **AI Campaigns** | WhatsApp bot with eCommerce tracking | Node.js, Dialogflow, Firebase | 🟢 Active |
 | 📈 **ARC Dashboard** | Analytics suite for education platform | React, TypeScript, Retool | 🟡 Maintenance |
-| 🌍 **Rwanda AI Tutor** | Offline-first translation in Kinyarwanda | Flutter, TensorFlow Lite | 🟡 Maintenance |
 
 ---
 
@@ -101,8 +95,8 @@
 | **Eight Medical** | Senior Backend Engineer | NestJS, Redis, PostgreSQL, gRPC | 2024 – Present |
 | **Reeddi** | DevOps + API Lead | Docker, FastAPI, AWS, TeamCity | 2023 – Present |
 | **Poixel** | Conversational API Dev | Dialogflow, WhatsApp, Firebase | 2024 – 2025 |
-| **Vimana (PSC)** | Microservices Engineer | Kubernetes, ElasticSearch, i18n | 2022 – 2023 |
-| **SleepNumber** | Azure CRM Support | Azure, CI/CD, REST APIs | 2022 |
+| **TRANSITION TECNOLOGIES - Vimana (PSC)** | Microservices Engineer | Kubernetes, ElasticSearch, i18n | 2022 – 2023 |
+| **TRANSITION TECNOLOGIES - SleepNumber** | Azure CRM Support | Azure, CI/CD, REST APIs | 2022 |
 | **TempOwn** | Rental Platform Architect | NestJS, Retool, CI/CD | 2021 – 2022 |
 | **Shecluded** | Serverless Backend Engineer | Lambda, DynamoDB, AWS Gateway | 2021 – 2022 |
 | **MaHealth** | Telehealth Developer | Node.js, MySQL, MongoDB | 2020 – 2023 |
