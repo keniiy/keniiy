@@ -1,15 +1,17 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2962FF&width=435&lines=Hey%2C+I'm+Kehinde+(Kenniy);Senior+Software+Engineer;System+Architect;DevOps+Pro;Team+Lead" alt="Typing SVG" />
-  <br>
-  <p>I build <b>serious backend infrastructure</b> powering real-time healthtech, logistics, loyalty systems, and AI-driven platforms.</p>
-  <p>💼 Team Lead · ⚙️ Microservices Architect · ☁️ DevOps Pro · 🧠 Mentor</p>
-</div>
+
+# Kehinde (Kenniy) - Senior Software Engineer
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2962FF&width=435&lines=Hey%2C+I'm+Kehinde+(Kenniy);Senior+Software+Engineer;System+Architect;DevOps+Pro;Team+Lead)
+
+I build **serious backend infrastructure** using Node.js, Python, and C#/.NET, powering real-time healthtech, logistics, loyalty systems, ecommerce, and AI-driven platforms.
+
+💼 Team Lead · ⚙️ Microservices Architect · ☁️ DevOps Pro · 🧠 Mentor
 
 ---
 
 ## 🚧 What I Do
 
-- ⚙️ **Architect microservices** across critical domains: health, logistics, finance, and AI
+- ⚙️ **Architect microservices** across critical domains: health, logistics, ecommerce, finance, and AI
 - 🧠 **Mentor and lead teams** on clean code, scale, and performance optimization
 - ☁️ **Deploy resilient cloud-native systems** with CI/CD, containers, Redis/NATS/gRPC
 - 📊 **Ship products** with analytics, observability, and bulletproof rollout strategies
@@ -22,10 +24,13 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
 
 **Frameworks & Stacks:**
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-512BD4?logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-512BD4?logo=dotnet&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
 
@@ -50,27 +55,27 @@
 <table>
   <tr>
     <td align="center" width="33%">
-      <a href="https://github.com/yourusername/health-project">
-        <b>GodEye Healthcare Platform</b>
+      <a href="https://github.com/keniiy/EcommerceMicroservices">
+        <b>Ecommerce Microservices (.NET)</b>
       </a>
       <br>
-      Microservices healthcare system with triage, onboarding, and HMO integration
+      Advanced .NET 6 microservices system with RabbitMQ, MongoDB, PostgreSQL, Docker, and Kubernetes.
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/yourusername/loyalty-system">
+      <a href="https://github.com/keniiy/My-Real-Estate-master">
+        <br>
+        <b>My Real Estate Platform</b>
+      </a>
+      <br>
+      Real estate web app with ASP.NET, C#, backend APIs, and cloud deployment integrations.
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/keniiy/loyalty-system">
         <br>
         <b>LoyaOne</b>
       </a>
       <br>
-      Loyalty card system with checkout device integration
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/yourusername/ai-campaigns">
-        <br>
-        <b>AI Campaigns</b>
-      </a>
-      <br>
-      WhatsApp bot integration with eCommerce and social tracking
+      Loyalty card system with checkout device integration and microservices backend.
     </td>
   </tr>
 </table>
@@ -81,10 +86,10 @@
 
 | Project | Description | Tech Stack | Status |
 |---------|-------------|------------|--------|
+| 🏬 **Ecommerce Microservices** | Distributed ecommerce platform | ASP.NET Core, RabbitMQ, MongoDB, Docker | 🟢 Active |
+| 🏠 **My Real Estate Platform** | Real estate listings and management system | ASP.NET, C#, SQL Server | 🟢 Active |
 | 🏥 **GodEye** | 8-service healthcare microservices platform | NestJS, Redis, gRPC, PostgreSQL | 🟢 Active |
 | 💳 **LoyaOne** | Loyalty card system with POS integration | FastAPI, MongoDB, Redis | 🟢 Active |
-| 🧠 **AI Campaigns** | WhatsApp bot with eCommerce tracking | Node.js, Dialogflow, Firebase | 🟢 Active |
-| 📈 **ARC Dashboard** | Analytics suite for education platform | React, TypeScript, Retool | 🟡 Maintenance |
 
 ---
 
@@ -96,48 +101,16 @@
 | **Reeddi** | DevOps + API Lead | Docker, FastAPI, AWS, TeamCity | 2023 – Present |
 | **Poixel** | Conversational API Dev | Dialogflow, WhatsApp, Firebase | 2024 – 2025 |
 | **TRANSITION TECNOLOGIES - Vimana (PSC)** | Microservices Engineer | Kubernetes, ElasticSearch, i18n | 2022 – 2023 |
-| **TRANSITION TECNOLOGIES - SleepNumber** | Azure CRM Support | Azure, CI/CD, REST APIs | 2022 |
-| **TempOwn** | Rental Platform Architect | NestJS, Retool, CI/CD | 2021 – 2022 |
-| **Shecluded** | Serverless Backend Engineer | Lambda, DynamoDB, AWS Gateway | 2021 – 2022 |
-| **MaHealth** | Telehealth Developer | Node.js, MySQL, MongoDB | 2020 – 2023 |
-| **Ikeja Electric** | CRM Platform Dev | Python, PostgreSQL, Redis | 2022 |
-| **Freelancer.com** | Fullstack Engineer | Custom CMS, UI/UX Projects | 2016 – 2023 |
-
----
-
-## 📝 Articles & Talks
-
-- [The Right Way to Architect Microservices in 2025](https://example.com) - Conference Talk
-- [Performance Optimization for Node.js Services](https://example.com) - Blog Post
-- [DevOps Best Practices for Healthcare Applications](https://example.com) - Workshop
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=keniiy&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keniiy&layout=compact&langs_count=7&theme=react"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=keniiy&theme=react" alt="keniiy"/>
-</div>
+| **Freelancer.com** | Fullstack / Backend Developer | ASP.NET Core, C#, Node.js, PostgreSQL | 2019–2023 |
 
 ---
 
 ## 📫 Let's Connect
+### Connect With Me:
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/kehinde-kehinde" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-  <a href="mailto:hello@workingtalentagency.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-  <a href="https://workingtalentagency.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank">
-  </a>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kehinde-kehinde)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@workingtalentagency.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://workingtalentagency.com)
 </div>
 
 ---
@@ -147,3 +120,4 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=keniiy&color=blue&style=flat" alt="Profile views" />
 </div>
+![Profile views](https://komarev.com/ghpvc/?username=keniiy&color=blue&style=flat)
